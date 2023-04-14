@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\school\\c#\\melting-snowman-PresidentOfRoasting\\melting-snowman\\melting-snowman.csproj": {}
+  },
+  "projects": {
+    "D:\\school\\c#\\melting-snowman-PresidentOfRoasting\\melting-snowman\\melting-snowman.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\school\\c#\\melting-snowman-PresidentOfRoasting\\melting-snowman\\melting-snowman.csproj",
+        "projectName": "melting-snowman",
+        "projectPath": "D:\\school\\c#\\melting-snowman-PresidentOfRoasting\\melting-snowman\\melting-snowman.csproj",
+        "packagesPath": "C:\\Users\\presi\\.nuget\\packages\\",
+        "outputPath": "D:\\school\\c#\\melting-snowman-PresidentOfRoasting\\melting-snowman\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\presi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
